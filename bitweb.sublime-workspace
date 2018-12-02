@@ -1,0 +1,1208 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"addParam	(DBFactories.js)"
+			],
+			[
+				"Db",
+				"DBparametros"
+			],
+			[
+				"ng",
+				"ng-click	AngularJS"
+			],
+			[
+				"get",
+				"getResponse"
+			],
+			[
+				"DB",
+				"DBpeticiones"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"ev",
+				"events"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"eve",
+				"eventos"
+			],
+			[
+				"e",
+				"events"
+			],
+			[
+				"fu",
+				"fuera3"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"comite",
+				"comites_mostrar"
+			],
+			[
+				"nombre",
+				"nombres_comites	(lugares.html)"
+			],
+			[
+				"Pro",
+				"Proyección"
+			],
+			[
+				"ng-c",
+				"ng-click	AngularJS"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"header",
+				"header_extra"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"pri",
+				"primaryKey"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"nav",
+				"nav_header"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"w",
+				"width	(index.html)"
+			],
+			[
+				"hig",
+				"height"
+			],
+			[
+				"bor",
+				"border:solid	(Estilo.css)"
+			],
+			[
+				"str",
+				"strong"
+			],
+			[
+				"jso",
+				"jsonatrr"
+			],
+			[
+				"re",
+				"requisito"
+			],
+			[
+				"req",
+				"requisitos	(index.html)"
+			],
+			[
+				"carou",
+				"carousel3_index"
+			],
+			[
+				"im",
+				"imagenes"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"te",
+				"texto_lectura2	(Estilo.css)"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"tex",
+				"texto_lectura"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"colo",
+				"color:white"
+			],
+			[
+				"col-",
+				"col-sm-4	 bootstrap.css"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"$lo",
+				"$location"
+			],
+			[
+				"ga",
+				"galerias	(controllers.js)"
+			],
+			[
+				"cu",
+				"current	(controllers.js)"
+			],
+			[
+				"col",
+				"color:white"
+			],
+			[
+				"not",
+				"noticiasController	(controllers.js)"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"white"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"ng-k",
+				"ng-keydown	AngularJS"
+			],
+			[
+				"id",
+				"id	Attr"
+			],
+			[
+				"mo",
+				"mobile	(ultimas_noticias.html)"
+			],
+			[
+				"text",
+				"texto_lectura	(contacto.html)"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"WI",
+				"width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"co",
+				"controller"
+			],
+			[
+				"ng-",
+				"ng-href	AngularJS"
+			],
+			[
+				"$",
+				"$location	AngularJS"
+			],
+			[
+				"cur",
+				"current_view"
+			],
+			[
+				"bla",
+				"black	(angular-carousel.css)"
+			],
+			[
+				"ng-s",
+				"ng-show	AngularJS"
+			],
+			[
+				"se",
+				"selectedItem"
+			],
+			[
+				"com",
+				"comentarios"
+			],
+			[
+				"ed",
+				"edit_grid"
+			],
+			[
+				"tipo",
+				"tipo_relacion"
+			],
+			[
+				"borr",
+				"borrar_relacion	(06_Relaciones.html)"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ena",
+				"enableCellSelection"
+			],
+			[
+				"ang",
+				"angular_grid"
+			],
+			[
+				"FORM",
+				"Form_Referencias_P"
+			],
+			[
+				"Form",
+				"Form_Referencias_P"
+			],
+			[
+				"FO",
+				"Form_Referencias_B"
+			],
+			[
+				"empl",
+				"empleo_principal"
+			],
+			[
+				"Agregar",
+				"Agregar_Empleo	(04_Empleos.html)"
+			],
+			[
+				"E",
+				"Empleos"
+			],
+			[
+				"set",
+				"setSalarioNeto"
+			],
+			[
+				"email_",
+				"email_trabajo_principal"
+			],
+			[
+				"email",
+				"email_personal_principal"
+			],
+			[
+				"cel",
+				"celular_principal"
+			],
+			[
+				"telefono_",
+				"telefono_trabajo	(04_Localizacion.html)"
+			],
+			[
+				"tel",
+				"telefono_trabajo_principal"
+			],
+			[
+				"incia",
+				"inicia2	(04_Localizacion.html)"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"vi",
+				"viewValue"
+			],
+			[
+				"tele",
+				"telefono_casa	(04_Localizacion.html)"
+			],
+			[
+				"Form_",
+				"Form_localizacion"
+			],
+			[
+				"sa",
+				"salirio_neto	(app.js)"
+			],
+			[
+				"volumen_",
+				"volumen_mensual_egresos"
+			],
+			[
+				"nue",
+				"nuevo_empleo	(app.js)"
+			],
+			[
+				"ng-i",
+				"ng-init	AngularJS"
+			],
+			[
+				"for",
+				"formComplementarios"
+			],
+			[
+				"$s",
+				"$scope	AngularJS"
+			],
+			[
+				"emp",
+				"empleo_form"
+			],
+			[
+				"Fo",
+				"Form_Empleo"
+			],
+			[
+				"emai",
+				"email_personal"
+			],
+			[
+				"em",
+				"email_personal"
+			],
+			[
+				"lo",
+				"localizacion_Form"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"dire",
+				"direccion_principal"
+			],
+			[
+				"Di",
+				"Direciones"
+			],
+			[
+				"Dir",
+				"Dirección"
+			],
+			[
+				"ma",
+				"maxlength"
+			],
+			[
+				"ca",
+				"calcular_zona"
+			],
+			[
+				"pro",
+				"provincia"
+			],
+			[
+				"form",
+				"formInfo_Extra"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "xenon/app/js/bitWebScripts/Categorias/categoriasControllers.js",
+			"settings":
+			{
+				"buffer_size": 2349,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/Categorias.php",
+			"settings":
+			{
+				"buffer_size": 989,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "xenon/app/js/services.js",
+			"settings":
+			{
+				"buffer_size": 4701,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "xenon/app/tpls/layout/horizontal-menu.html",
+			"settings":
+			{
+				"buffer_size": 9983,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "xenon/app/tpls/bitWeb/Index.html",
+			"settings":
+			{
+				"buffer_size": 790,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "xenon/app/tpls/login-light.html",
+			"settings":
+			{
+				"buffer_size": 4605,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"nu",
+				"Snippet: AngularNumeroObligatorio"
+			],
+			[
+				"te",
+				"Snippet: AngularTextoObligatorio"
+			],
+			[
+				"sele",
+				"Snippet: AngularSelect"
+			],
+			[
+				"fo",
+				"Snippet: FormAngular"
+			],
+			[
+				"texto",
+				"Snippet: AngularTextoObligatorio"
+			],
+			[
+				"for",
+				"Snippet: FormAngular"
+			],
+			[
+				"select",
+				"Snippet: AngularSelect"
+			],
+			[
+				"num",
+				"Snippet: AngularNumeroObligatorio"
+			],
+			[
+				"fom",
+				"Snippet: FormAngular"
+			],
+			[
+				"tetoO",
+				"Snippet: AngularTextoObligatorio"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"angular",
+				"Snippet: AngularSelect"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/W/BitWeb/xenon/app",
+		"/W/BitWeb/xenon/app/tpls/bitWeb",
+		"/W/BitWeb/xenon/app/tpls/bitWeb/Administracion",
+		"/W/BitWeb/xenon/app/tpls/bitWeb/Administracion/Categorias"
+	],
+	"file_history":
+	[
+		"/W/BitWeb/xenon/app/tpls/bitWeb/Administracion/Categorias/Index.html",
+		"/W/BitWeb/xenon/app/js/app.js",
+		"/W/BitWeb/application/models/Categoriasmodel.php",
+		"/W/BitWeb/xenon/app/js/bitWebScripts/DB/DBFactories.js",
+		"/W/BitWeb/xenon/app/tpls/layout/sidebar-menu.html",
+		"/W/BitWeb/xenon/app/tpls/bitWeb/Administracion/Categorias/formCategorias.html",
+		"/W/bitWeb/app/js/services.js",
+		"/W/bitWeb/app/js/app.js",
+		"/W/bitWeb/app/tpls/layout/footer.html",
+		"/W/bitWeb/index.html",
+		"/W/bitWeb/app/tpls/login-light.html",
+		"/W/bitWeb/app/tpls/layout/horizontal-menu.html",
+		"/W/bitWeb/app/js/controllers.js",
+		"/W/bitWeb/app/js/directives.js",
+		"/W/bitWeb/assets/css/custom.css",
+		"/W/bitWeb/assets/js/select2/select2.css",
+		"/W/bitWeb/assets/js/select2/select2-bootstrap.css",
+		"/W/bitWeb/assets/js/select2/select2.min.js",
+		"/W/bitWeb/app/tpls/layout-and-skins.html",
+		"/W/bitWeb/app/tpls/layout/user-info-navbar.html",
+		"/W/bitWeb/app/tpls/layout/sidebar-profile.html",
+		"/W/Fiderpac/templates/portada.html",
+		"/W/Fiderpac/js/controllers.js",
+		"/W/Fiderpac/index.html",
+		"/W/Fiderpac/json/eventos.json",
+		"/W/Fiderpac/js/angular-carousel.min.js",
+		"/W/Fiderpac/js/slide_portada_angular.js",
+		"/W/Fiderpac/js/a.js",
+		"/W/Fiderpac/js/gcal.js",
+		"/W/Fiderpac/js/empty.js",
+		"/W/Fiderpac/js/app.js",
+		"/C/Users/Jesus/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/W/angular-file-upload-master/angular-file-upload.js",
+		"/W/angular-file-upload-master/examples/image-preview/index.html",
+		"/W/angular-file-upload-master/examples/image-preview/controllers.js",
+		"/W/angular-file-upload-master/examples/console-sham.min.js",
+		"/J/angularupload/examples/image-preview/index.html",
+		"/W/Fiderpac/json/slide_json.json",
+		"/W/Fiderpac/templates/videos.html",
+		"/W/Fiderpac/templates/galeria.html",
+		"/W/Fiderpac/js/calendar.js",
+		"/W/Fiderpac/templates/somos.html",
+		"/W/divisoft_web/administrador/administracion.php",
+		"/W/divisoft_web/login/js/login.js",
+		"/W/Fiderpac/json/lista_galerias.json",
+		"/W/Fiderpac/templates/lugares.html",
+		"/W/Fiderpac/css/sliderAngular_fix.css",
+		"/W/Fiderpac/json/requisitos_creditos.json",
+		"/W/Fiderpac/css/Estilo.css",
+		"/W/Fiderpac/json/carousel3_index.json",
+		"/W/Fiderpac/templates/requisitos.html",
+		"/W/Fiderpac/templates/evento.html",
+		"/W/Fiderpac/php/Mail.php",
+		"/W/Fiderpac/php/class.smtp.php",
+		"/W/Fiderpac/php/class.phpmailer.php",
+		"/W/Fiderpac/php/phpMailer.php",
+		"/W/Fiderpac/templates/metodologia.html",
+		"/W/Fiderpac/json/Galeria6.json",
+		"/W/Fiderpac/json/Galeria4.json",
+		"/W/Fiderpac/json/Galeria0.json",
+		"/W/Fiderpac/json/Galeria5.json",
+		"/W/Fiderpac/json/Galeria2.json",
+		"/W/Fiderpac/json/Galeria3.json",
+		"/W/Fiderpac/css/Estilo_movil.css",
+		"/W/Fiderpac/css/Estilo_movilMedium.css",
+		"/W/Fiderpac/css/Estilo_movilBigger.css",
+		"/W/Fiderpac/css/Estilo_pantallas_medianas.css",
+		"/W/Escritor_PHP/escritor.php",
+		"/W/Escritor_PHP/tablas.php",
+		"/W/Escritor_PHP/codeigniter.php",
+		"/W/Fiderpac/css/EstiloPantallasMedias.css",
+		"/W/Escritor_PHP/esquemas.php",
+		"/W/Fiderpac/templates/pequenas_cuotas.html",
+		"/W/Fiderpac/json/noticias.json",
+		"/W/Fiderpac/json/videos.json",
+		"/W/Fiderpac/templates/contacto.html",
+		"/W/Fiderpac/css/jcarousel.responsive.css",
+		"/W/Fiderpac/js/jquery.jcarousel.js",
+		"/W/jcarousel-master/examples/ajax/jcarousel.ajax.js",
+		"/W/Fiderpac/js/i18n_espanol.js",
+		"/W/Fiderpac/templates/noticias.html",
+		"/W/CMS/application/views/Dashboard.html",
+		"/W/CMS/application/controllers/Fiderpac_Dashboard.php",
+		"/W/CMS/application/views/testview.php",
+		"/W/Fiderpac_Responsive/json/noticias.json",
+		"/W/Fiderpac_Responsive/index.html",
+		"/W/Fiderpac_Responsive/templates/noticias.html",
+		"/W/Fiderpac_Responsive/js/controllers.js",
+		"/W/Fiderpac_Responsive/js/app.js",
+		"/W/Fiderpac_Responsive/templates/ultimas_noticias.html",
+		"/W/Fiderpac_Responsive/templates/noticia.html",
+		"/W/Fiderpac_Responsive/templates/portada.html",
+		"/W/Fiderpac_Responsive/css/sliderAngular_fix.css",
+		"/W/Fiderpac_Responsive/css/Estilo.css",
+		"/W/Fiderpac_Responsive/templates/somos.html",
+		"/W/Formularios_Copeservidores/index.html",
+		"/W/Formularios_Copeservidores/app.js",
+		"/W/Formularios_Copeservidores/06_Relaciones.html",
+		"/W/Formularios_Copeservidores/07_Beneficiarios.html",
+		"/W/Fiderpac_Responsive/css/a.css",
+		"/W/Fiderpac_Responsive/css/Header.css",
+		"/W/Fiderpac_Responsive/templates/galeria.html",
+		"/W/Fiderpac_Responsive/templates/exitos.html",
+		"/W/Fiderpac_Responsive/css/angular-carousel.css",
+		"/W/Fiderpac_Responsive/css/sliderAngular_Galerias.css",
+		"/W/Formularios_Copeservidores/04_Direcciones.html",
+		"/W/Formularios_Copeservidores/04_Empleos.html",
+		"/W/Formularios_Copeservidores/lista_clientes_empleado.html",
+		"/W/Formularios_Copeservidores/06_Referencias_Personales.html",
+		"/W/Formularios_Copeservidores/06_Referencias_Bancarias.html",
+		"/W/Formularios_Copeservidores/06_Relaciones",
+		"/W/Formularios_Copeservidores/04_Localizacion.html",
+		"/W/Formularios_Copeservidores/04_Dir_Tel_Trab.html",
+		"/Z/Sublime Text 3/Data/Packages/AngularNumeroObligatorio.sublime-snippet",
+		"/Z/Sublime Text 3/Data/Packages/AngularTextoObligatorio.sublime-snippet",
+		"/Z/Sublime Text 3/Data/Packages/AngularSelect.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"adm_categoria_model",
+			"CategoriasModel",
+			"adm_categoria_model\n",
+			"();\n",
+			"Menu",
+			"#68b828",
+			"li",
+			"menu",
+			"opts.sidebarSkin",
+			"layout-and-skins",
+			"alert",
+			"nv-file-select",
+			"Portada5",
+			"evento",
+			"mes",
+			"minutos",
+			"[];\n",
+			"gotoAnchor",
+			"//});",
+			"Capacitaciones",
+			"100px",
+			"*/ ",
+			"png",
+			"primaryKey",
+			"'}\"><",
+			"nav_header_tablet\n",
+			";}\n",
+			"}\n",
+			":;}",
+			"pointer",
+			"none",
+			"tablas",
+			"</h1>",
+			"<h1 style='font-size:120%'>",
+			"<h1>",
+			"uno",
+			"exito",
+			"src=",
+			"alt=\"\">",
+			"<img",
+			"</li>",
+			"<li>",
+			"reload",
+			"\n<!DOCTYPE html>\n<html>\n<head>\n	\n	<title>Fiderpac</title>\n  <meta name=\"viewport\" content=\"width=device-width\">\n	<meta charset=\"UTF-8\">\n  \n  \n    <link href=\"css/Estilo.css\"  rel=\"stylesheet\" type=\"text/css\"/>\n    <link href=\"css/webwidget_slideshow_dot.css\" rel=\"stylesheet\" type=\"text/css\"/>\n    <link href=\"css/sliderAngular_Galerias.css\" rel=\"stylesheet\" type=\"text/css\"/>\n    <link href=\"css/angular-carousel.css\" rel=\"stylesheet\" type=\"text/css\"/>\n    <link href=\"css/sliderAngular_fix.css\" rel=\"stylesheet\" type=\"text/css\"/>\n    <!--<link rel=\"stylesheet\" href=\"http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css\">-->\n    <link rel=\"stylesheet\" href=\"css/bootstrap.css\">\n    <link rel=\"stylesheet\" href=\"css/fullcalendar.css\"/>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/jcarousel.responsive.css\">\n\n    <script type=\"text/javascript\" src=\"js/jquery-2.0.2.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/jquery.jcarousel.js\"></script>\n    <script type=\"text/javascript\" src=\"js/jcarousel.responsive.js\"></script>\n    <script type=\"text/javascript\" src=\"js/moment.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/angular.min.js\"></script>\n    <script src=\"js/i18n_espanol.js\"></script>\n    <script type=\"text/javascript\" src=\"js/ui-bootstrap-tpls.js\"></script>\n    <script type=\"text/javascript\" src=\"js/angular-route.js\"></script>\n    <script type=\"text/javascript\" src=\"js/calendar.js\"></script>\n    <script type=\"text/javascript\" src=\"js/fullcalendar.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/fullcalendar/gcal.js\"></script>\n    <script type=\"text/javascript\" src=\"js/angular-carousel.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/angular-touch.js\"></script>\n    <script type=\"text/javascript\" src=\"js/angular-animate.js\"></script>\n    <script type=\"text/javascript\" src='https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-sanitize.js'></script>\n    <script type=\"text/javascript\" src='js/youtubeAPI.js'></script>\n    <script type=\"text/javascript\" src='js/angular-youtube-embed.js'></script>\n    <script src=\"js/bootstrap.js\"></script>\n    <script type=\"text/javascript\" src=\"js/app.js\"></script>\n    <script type=\"text/javascript\" src=\"js/controllers.js\"></script>\n \n  \n</head>\n<body ng-app=\"Fiderpac_FrontEnd\"> \n  \n    <div class=\"page-header\" id=\"header\" >\n        \n        <div class=\"row\" style=\"margin-top: -3%\" ><!--Fila1 HEADER -->\n          <div class=\"col-sm-3\" style=\"\">\n              <img src=\"media/Imagenes/Logo.png\"  alt=\"Logo\" class=\"img-circle img-responsive\" style=\"height: 155px; width: 175px; margin-left: - 1%;/*box-shadow: 2px 3px 5px black*/\"/>\n\n              <div id=\"msg_header_movil\">\n              <h2 style=\"color:#048CEB;\">FIDERPAC</h2>\n              <p style=\"margin-left:5%\">Para el Bienestar Familiar</p>\n              <h3 style=\"font-size:125%\">Modelo de Crédito Comunal</h3>\n              \n             </div>\n          </div>\n\n          <div class=\"col-sm-9\" id=\"msg_header\"style=\"\">\n              <h2>Bienvenidos a:</h2>\n              <h1 style=\"color:#048CEB;margin-top:-5%;margin-left:25%;font-size: 400%;\">FIDERPAC</h1>\n              <small style=\"margin-left:30%\">Para el Bienestar Familiar</small>\n              <p style=\"margin-left:23%; font-size:200%\">Modelo de Crédito Comunal</p><br><br><br>\n          </div>\n\n          \n\n         <!-- <div class=\"col-sm-3\" style=\"\">\n              <img src=\"media/Imagenes/header3.gif\" alt=\"Logo\" class=\"img-responsive\" style=\"height: 155px; width:500px;  margin-left: -1%;\"/>\n\n            <img src=\"media/Imagenes/header4.png\" alt=\"Logo\" class=\"img-responsive\" style=\"height: 155px; width:500px;  margin-left: -1%;\"/>\n\n          </div>-->\n          \n        </div><!--FIN FILA1 HEADER -->\n\n        <div class\"row\" style=\"\">\n          <div class=\"col-sm-4\"></div>\n          \n           <div class=\"col-sm-6\"> \n            \n              <ul id=\"nav_header\" class=\"nav nav-tabs\" style=\"background-color:/*#bebebe; border-radius: 5px 5px 0px 0px;box-shadow: 2px 3px 5px 2px black*/; width:90%; margin-top:-9%\" ng-controller=\"NavCtrl\">\n                    \n                      <li role=\"presentation\" ng-class=\"{active: current == '/'}\"><a href=\"#//\" >Inicio</a></li>\n                        <li role=\"presentation\" ng-class=\"{active: current == '/logros'}\"><a href=\"#/logros\" >Logros</a></li>\n                        <li role=\"presentation\" ng-class=\"{active: current == 'exitos'}\"><a href=\"#/exitos/0\"  >Videos</a></li>\n                        <li role=\"presentation\" ng-class=\"{active: current == 'galeria'}\"><a href=\"#/galeria/0\" >Galería</a></li>\n                        <li role=\"presentation\" ng-class=\"{active: current == '/contacto'}\"><a href=\"#/contacto\" >Contacto</a></li>\n                         <li role=\"presentation\"  ng-class=\"{active: current == '/somos' || current == '/modelo' current == '/operacion' || current == '/filosofia' || current == '/lugares'}\">\n\n                            <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">\n                                Información <span class=\"caret\"></span>\n                              </a>\n                              <ul class=\"dropdown-menu\">\n                                <li ng-click=\"active('informacion')\"><a href=\"#/somos\">¿Quienes Somos?</a></li>  \n                                <li ng-click=\"active('informacion')\"><a href=\"#/modelo\">Modelo de Crédito</a></li> \n                                <li ng-click=\"active('informacion')\"><a href=\"#/operacion\">¿Como Opera?</a></li>  \n                                <li ng-click=\"active('informacion')\"><a href=\"#/filosofia\">Filosofía</a></li> \n                                <li ng-click=\"active('informacion')\"><a href=\"#/lugares\">¿Donde Operamos?</a></li>  \n                              </ul>\n\n\n                        </li>\n\n\n              </ul>\n           </div>\n\n        </div>\n\n\n      </div><!--FIN HEADER -->\n   <div class=\"container-fluid\"><!--CONTENEDOR-->\n\n   <div id=\"menu_moviles\" ng-controller=\"NavCtrl\">\n          <nav class=\"navbar navbar-inverse\" id=\"nav_movil\">\n            <div class=\"container-fluid\">\n              <div class=\"navbar-header\" id=\"header_nav_movil\">\n                <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#myNavbar\">\n                  <span class=\"icon-bar\"></span>\n                  <span class=\"icon-bar\"></span>\n                  <span class=\"icon-bar\"></span>                        \n                </button>\n                <a class=\"navbar-brand\" href=\"#\">Menu</a>\n              </div>\n              <div class=\"collapse navbar-collapse\" id=\"myNavbar\">\n                <ul class=\"nav navbar-nav\">\n                    <li role=\"presentation\" ng-click=\"hide_movil()\" ng-class=\"{active: current == '/'}\"><a href=\"#//\" >Inicio</a></li>\n                        <li role=\"presentation\" ng-click=\"hide_movil()\" ng-class=\"{active: current == '/logros'}\"><a href=\"#/logros\" >Logros</a></li>\n                        <li role=\"presentation\" ng-click=\"hide_movil()\" ng-class=\"{active: current == 'exitos'}\"><a href=\"#/exitos/0\"  >Videos</a></li>\n                        <li role=\"presentation\" ng-click=\"hide_movil()\" ng-class=\"{active: current == 'galeria'}\"><a href=\"#/galeria/0\" >Galería</a></li>\n                        <li role=\"presentation\" ng-click=\"hide_movil()\" ng-class=\"{active: current == '/contacto'}\"><a href=\"#/contacto\" >Contacto</a></li>\n                         <li role=\"presentation\"  ng-click=\"hide_movil()\" ng-class=\"{active: current == '/somos' || current == '/modelo' current == '/operacion' || current == '/filosofia' || current == '/lugares'}\">\n                </ul>\n                <!--<ul class=\"nav navbar-nav navbar-right\">\n                  <li><a href=\"#\"><span class=\"glyphicon glyphicon-user\"></span> Sign Up</a></li>\n                  <li><a href=\"#\"><span class=\"glyphicon glyphicon-log-in\"></span> Login</a></li>\n                </ul>-->\n              </div>\n            </div>\n          </nav>\n   </div>\n\n    <div class=\"row\" ><!--Fila Principal SECTION -->\n      <div class=\"col-sm-3\" style=\"\" id=\"izquierda\"><!--aside izquierda-->\n      <!--\n                <ul id=\"menu\">\n  \n                        <li>\n                          <a href=\"#/somos\">¿Quienes Somos?</a>\n                        </li><br>  \n                        <li>\n                          <a href=\"#/modelo\">Modelo de Crédito</a>\n                        </li> <br> \n                        <li>\n                          <a href=\"#/operacion\">¿Como Opera?</a>\n                        </li><br>  \n                        <li>\n                          <a href=\"#/filosofia\">Filosofía</a>\n                        </li> <br> \n                        <li>\n                          <a href=\"#/lugares\">¿Donde Operamos?</a>\n                        </li>  \n\n                  </ul>-->\n\n             <h1 style=\"color:/*white*/\">Ultimas Noticias</h1>\n\n              <div id=\"carousel-noticias\" class=\"carousel slide texto_lectura2\" data-ride=\"carousel\" > \n\n                  <div ng-include=\"'templates/ultimas_noticias.html'\"></div>\n                \n                <!-- Controls --><!-- <a class=\"left carousel-control\" href=\"#carousel-example\" data-slide=\"prev\">\n                <span class=\"glyphicon glyphicon-chevron-left\"></span>\n              </a>\n             <a class=\"right carousel-control\" href=\"#carousel-example\" data-slide=\"next\">\n                <span class=\"glyphicon glyphicon-chevron-right\"></span>\n              </a>-->\n\n          </div><!--Fin Carousel Noticias-->\n         <br>\n          <a style=\"/*color:white*/\" href=\"#/noticias/1\">Ver Todas las Noticias</a>\n\n       </div><!--Fin Aside Izquierda-->\n\n      <div class=\"col-sm-9 col-xs-12\" id=\"section\" style=\"/*margin-left:20%*/\" ><!--SECCIÓN CENTRAL DE LA PÁGINA-->\n			\n          <div ng-view ></div><!--VISTA PRINCIPAL ANGULAR-->\n		  \n		  </div><!--FIN SECCIÓN CENTRAL-->\n          <!--<div class=\"col-sm-4\" style=\"/*background-color:lavender;*/\">\n\n            <a href=\"https://es-la.facebook.com/\"> <img src=\"media/Imagenes/facebook.png\" alt=\"Facebook\" class=\"Imagenessocial\"/></a>\n              <a href=\"https://www.youtube.com/?hl=es&gl=ES\"> <img src=\"media/Imagenes/youtube.png\" alt=\"You Tube\" class=\"Imagenessocial\"/></a>\n\n          </div>-->\n\n\n\n        </div><!--FIN FILA PRINCIAPL SECTION -->\n\n      <div  id=\"segunda_fila_index\" class=\"row\"style=\"height:300px; background:#3b7a9c !important\" >\n\n       <div class=\"col-sm-5 col-xs-12\" ng-controller=\"carousel3_index\">\n              \n\n           <div class=\"jcarousel-wrapper\" style=\"/*height:450px*/\">\n                <div class=\"jcarousel\" style=\"/*height:450px*/\" > \n                    <!--<ul ng-bind-html=\"myHTML\"></ul>-->\n                    <!--<ul>\n                        <li><img src=\"media/Imagenes/Carousel3/1.jpg\" style=\"/*height:400px*/\" alt=\"\"></li>\n                        <li><img src=\"media/Imagenes/Carousel3/2.jpg\"  alt=\"\"></li>\n                        <li><img src=\"media/Imagenes/Carousel3/3.jpg\" alt=\"\"></li>\n                        <li><img src=\"media/Imagenes/Carousel3/4.jpg\"  alt=\"\"></li>\n                        <li><img src=\"media/Imagenes/Carousel3/5.jpg\"  alt=\"\"></li>\n                        <li><img src=\"media/Imagenes/Carousel3/6.jpg\"  alt=\"\"></li>\n                        <li><img src=\"media/Imagenes/Carousel3/7.jpg\"  alt=\"\"></li>\n                        <li><img src=\"media/Imagenes/Carousel3/8.jpg\"  alt=\"\"></li>\n                        <li><img src=\"media/Imagenes/Carousel3/9.jpg\"  alt=\"\"></li>\n                        <li><img src=\"media/Imagenes/Carousel3/10.jpg\"  alt=\"\"></li>\n                    </ul>-->\n                   <!--<ul id=\"jcarousel_jquery\"></ul>-->\n                </div>\n\n                <a href=\"#\" class=\"jcarousel-control-prev\">&lsaquo;</a>\n                <a href=\"#\" class=\"jcarousel-control-next\">&rsaquo;</a>\n\n                <p class=\"jcarousel-pagination\"></p>\n            </div>\n\n            <!--<div ng-bind-html=\"myHTML\"></div>-->\n      </div> \n\n       <div class=\"col-sm-7 col-xs-12\"  ng-controller=\"calendarController\" >\n        <h1 style=\"color:white\">Próximos Eventos</h1>\n            <div class=\"texto_lectura\" style=\"margin-left:10%; \" >   \n               <div  ui-calendar=\"uiConfig.calendar\" class=\"span8 calendar\" ng-model=\"eventSources\"  ></div>\n            </div>\n        </div>\n      </div>\n\n  </div><!--FIN CONTENEDOR-->\n  \n\n  \n\n    <div id=\"footer\">\n      <div class=\"container\">\n      <div class=\"row\"><!--Fila Principal Footer1 -->\n          <div class=\"col-sm-8\" > <!--Foot nav bar-->\n\n              <nav class=\"navbar navbar-default\" style=\"margin-left:-5%\">\n                 \n                    \n                    <div>\n                      <ul class=\"nav navbar-nav\" ng-controller=\"NavCtrl\" >\n                        <li role=\"presentation\" ng-class=\"{active: current == '/'}\"><a href=\"#//\" >Inicio</a></li>\n                        <li role=\"presentation\" ng-class=\"{active: current == '/logros'}\"><a href=\"#/logros\" >Logros</a></li>\n                        <li role=\"presentation\" ng-class=\"{active: current == 'exitos'}\"><a href=\"#/exitos/0\"  >Videos</a></li>\n                        <li role=\"presentation\" ng-class=\"{active: current == 'galeria'}\"><a href=\"#/galeria/0\" >Galería</a></li>\n                        \n                        <li role=\"presentation\" ng-class=\"{active: current == '/contacto'}\"><a href=\"#/contacto\" >Contacto</a></li>\n                      </ul>\n                    </div>\n                \n                </nav>\n\n\n          </div><!-- Fin nav bar footer-->\n          \n          <div class=\"col-sm-4\"> \n            <div style=\"margin-left:80%\">\n              <a href=\"https://es-la.facebook.com/\"> <img src=\"media/Imagenes/facebook.png\" alt=\"Facebook\" class=\"Imagenessocial\"/></a>\n              <a href=\"https://www.youtube.com/?hl=es&gl=ES\"> <img src=\"media/Imagenes/youtube.png\" alt=\"You Tube\" class=\"Imagenessocial\"/></a>\n            </div>\n          </div>\n        </div><!--FIN FILA PRINCIAPL Footer1-->\n\n\n    <div class=\"row\"><!--Fila Principal SECTION -->\n          <div class=\"col-sm-4\" style=\"background-color:lavender;\"></div>\n          <div class=\"col-sm-4\" style=\"background-color:white;\">Derechos Reservados Fiderpac 2015</div>\n          <div class=\"col-sm-4\" style=\"background-color:white;\"></div>\n        </div><!--FIN FILA PRINCIAPL SECTION --> \n\n      <div class=\"row\"><!--Fila Principal SECTION -->\n          <div class=\"col-sm-4\" style=\"background-color:lavender;\"></div>\n          <div class=\"col-sm-4\" style=\"background-color:white;\">Desarrollado por:<a href=\"https://jecrwebymas.wordpress.com/\">Web y Mas</a>  \n          <div class=\"col-sm-4\" style=\"background-color:white;\"></div>\n        </div><!--FIN FILA PRINCIAPL SECTION -->   \n        \n      </div>\n    </div>\n    \n</body>\n</html>\n\n\n",
+			"11",
+			"450",
+			"<button type=\"button\" class=\"fc-next-button fc-button fc-state-default fc-corner-right\" sourceindex=\"2\"><span class=\"fc-icon fc-icon-right-single-arrow\"></span></button>",
+			"<td>",
+			"</td>",
+			"</tr>",
+			"<tr>",
+			"%\">",
+			"Casos de éxito",
+			"$index",
+			"                \n",
+			"carouselIndex2",
+			"\">",
+			"200px",
+			"')\"",
+			"}\n",
+			" {",
+			"} ",
+			"155px",
+			"white",
+			">\n",
+			"length",
+			"};\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"CategoriasModel",
+			"Mostrar",
+			"ProyeccionComunal",
+			"</h2>",
+			"<h2>",
+			"<h1 style='font-size:120%'>",
+			"<strong>uno</strong>",
+			"video",
+			"\"src\" :",
+			"",
+			"Videos"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "W:\\BitWeb\\application"
+		},
+		{
+			"path": "W:\\BitWeb\\xenon\\app"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "xenon/app/js/bitWebScripts/Categorias/categoriasControllers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2121,
+								2121
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/controllers/Categorias.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 989,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								989,
+								989
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "xenon/app/js/services.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3250,
+								3239
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1485.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "xenon/app/tpls/layout/horizontal-menu.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9290,
+								9290
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4860.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "xenon/app/tpls/bitWeb/Index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "xenon/app/tpls/login-light.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3151,
+								3289
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1665.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
